@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AS5600-ASOT)(type Legacy)(uri ${KIPRJMOD}/AS5600-ASOT/AS5600-ASOT.lib)(options "")(descr ""))
+  (lib (name AS5601-ASOM)(type Legacy)(uri ${KIPRJMOD}/AS5601-ASOM/AS5601-ASOM.lib)(options "")(descr ""))
+)
